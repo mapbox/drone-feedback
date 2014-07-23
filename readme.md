@@ -15,3 +15,6 @@ To add a data source to the no-fly map [mapbox.com/drone/no-fly](https://www.map
 #### Current Data Sources
 
 See `/sources` folder.
+
+#### Drone flying Octocat
+![](https://i.cloudup.com/MvxLclz-PM-3000x3000.jpeg)
